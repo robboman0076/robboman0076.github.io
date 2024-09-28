@@ -22,5 +22,6 @@
 ![Stabmag cover Kolohe Andino](http://www.stabmag.com/wp-content/uploads/2020/10/STAB62Low-1.jpg?_gl=1*1j6dffz*_gcl_au*NjIxNjQzNjA1LjE3Mjc1MzM3NDg.*_ga*NzQ0OTUyMTk2LjE3Mjc1MzM3NDg.*_ga_TNLRMTRRHW*MTcyNzUzMzc0Ny4xLjAuMTcyNzUzMzc0Ny42MC4wLjExNzc5MDE4ODA.)  
  This website has my favorite surfing journalism, and also has a great active instagram page that I follow and enjoy. It's one of the few news publications that I think merits an annual subscription. 
  * [**Workaway**](https://www.workaway.info)  
+ ![Workaway image header](https://www.workaway.info/gfx/2015/logo_main.svg)  
   Workaway added so much value to my solo traveling experience in Mexico. With just one job lined up at a hostel in San Luis Potosí I was able to build a network of fellow travelers that brought me across the country. I was always was able to find work and community. 
 
