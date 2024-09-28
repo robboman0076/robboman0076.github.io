@@ -8,18 +8,18 @@
 -------------------------------
 # About Me
 ## My Interests
-* **Surfing** 
+* **Surfing**  
  I have been passionate about surfing for the past 10 years and have surfed in many places in the United States, Spain, Mexico and Perú. I got the opportunity to surf in competitions when I lived in Sinaloa, Mexico. I taught surfing for four years in North Carolina. 
 
- * **Spanish**
+ * **Spanish**  
   I started learning Spanish at age 17 and was able to travel and study in Spain while at university. I taught intermediate Spanish courses while pursuing my Master's at UNC Wilmington. After graduating, I spent almost two years living in Mexico. My Spanish sounds more Mexican now. 
 
-  * **Plumbing** 
+  * **Plumbing**  
    In 2023 I started working as a new-construction plumber in the Raleigh area. This year I have been focused primarily on rough-in plumbing, installing water pipe, vents, and drain for new houses in the RDU area. It's been a lot of work and a lot of learning but I enjoy the combination of physicality and problem solving each workday brings. 
 
 ## Websites I Recommend
-* [**Stab Magazine**](https://stabmag.com)
+* [**Stab Magazine**](https://stabmag.com)  
  This website has my favorite surfing journalism, and also has a great active instagram page that I follow and enjoy. It's one of the few news publications that I think merits an annual subscription. 
- * [**Workaway**](https://www.workaway.info)
+ * [**Workaway**](https://www.workaway.info)  
   Workaway added so much value to my solo traveling experience in Mexico. With just one job lined up at a hostel in San Luis Potosí I was able to build a network of fellow travelers that brought me across the country. I was always was able to find work and community. 
 
