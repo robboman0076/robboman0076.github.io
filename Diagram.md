@@ -1,4 +1,5 @@
-# Surfboard selection flowchart
+## Surfboard selection flowchart
+![Dane Reynolds Stab in the Dark](https://cdn.shopify.com/s/files/1/0252/3532/4991/files/000106840029_SITD_1024x1024.jpg?v=1608153901)
 
 ``` mermaid
 flowchart LR
