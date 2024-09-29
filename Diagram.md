@@ -1,4 +1,6 @@
 ## Surfboard selection flowchart
+ This flowchart is intended to serve as a guide for a surfer looking to buy a surfboard. It takes into account skill level, wave size, fitness and surf frequency. 
+ 
 ![Dane Reynolds Stab in the Dark](https://cdn.shopify.com/s/files/1/0252/3532/4991/files/000106840029_SITD_1024x1024.jpg?v=1608153901)
 
 ``` mermaid
